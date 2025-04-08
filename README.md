@@ -1,7 +1,7 @@
 # Foundations-of-Computer-Science
 # Progetto di Analisi delle Corse dei Taxi a New York City
 
-Questo progetto, sviluppato nel primo anno del master in Data Science, analizza il dataset delle corse dei taxi di New York City utilizzando **Jupyter Notebook** e **GitHub**. L'obiettivo principale è analizzare le dinamiche del traffico urbano a New York City per ottenere insight sulla mobilità cittadina.
+Questo progetto, sviluppato nel primo anno del master in Data Science, analizza il dataset delle corse dei taxi di New York City utilizzando **Jupyter Notebook** (per l'analisi dei dati) e **GitHub** (per la gestione e condivisione del codice). L'obiettivo principale è analizzare le dinamiche del traffico urbano a New York City per ottenere insight sulla mobilità cittadina.
 
 ### Attività principali:
 
